@@ -1,4 +1,5 @@
 import pic from '../assets/images/profile.png'
+// import Resume from '../assets/images/Muhammad Akash.pdf'
 import Resume from '../assets/images/Muhammad Akash.pdf'
 export default function HeroSection() {
     return (
